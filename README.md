@@ -64,5 +64,4 @@ Me chamo Stefany, sou tÃ©cnica em Desenvolvimento de Sistemas e estudante de AnÃ
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=steneu408&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
