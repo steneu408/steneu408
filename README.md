@@ -55,13 +55,4 @@ Me chamo Stefany, sou técnica em Desenvolvimento de Sistemas e estudante de An�
 <br/>
 
 ---
-### 📊 Estatísticas
 
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=steneu408&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
